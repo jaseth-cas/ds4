@@ -1,0 +1,43 @@
+[33mcommit 7599f0e3fb16337747643a56d541187e129eba80[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jaseth-cas <jaseth.castillo@utp.ac.pa>
+Date:   Tue Aug 26 22:36:10 2025 -0500
+
+    Revert "Este es mi cuarta version"
+    por jaseth
+    This reverts commit 9a4ba6de94df73c344a5b8c89ba416542aae82eb.
+
+[33mcommit df42bd4d9323f3e922f7238250adcd6d9d86cbf5[m[33m ([m[1;31morigin/rama2[m[33m, [m[1;32mrama2[m[33m)[m
+Author: jaseth-cas <jaseth.castillo@utp.ac.pa>
+Date:   Tue Aug 26 21:56:43 2025 -0500
+
+    añadiendo archivos a rama 23
+
+[33mcommit 9a4ba6de94df73c344a5b8c89ba416542aae82eb[m
+Author: jaseth-cas <jaseth.castillo@utp.ac.pa>
+Date:   Fri Aug 22 02:15:26 2025 -0500
+
+    Este es mi cuarta version
+
+[33mcommit a7a41ff5ee8e5b25bf759e8a9057c9f5503d92e8[m
+Author: jaseth-cas <jaseth.castillo@utp.ac.pa>
+Date:   Wed Aug 20 11:51:40 2025 -0500
+
+    Esta es la tercera version
+
+[33mcommit cbafea1c90a67da8255812ff852305f2a9ed8395[m
+Author: jaseth-cas <jaseth.castillo@utp.ac.pa>
+Date:   Wed Aug 20 11:45:05 2025 -0500
+
+    Esta es la segunda version
+
+[33mcommit 639d48c25e14c22337673810d9b9050d73513fd4[m
+Author: jaseth-cas <jaseth.castillo@utp.ac.pa>
+Date:   Wed Aug 20 11:38:07 2025 -0500
+
+    Este es mi primer archivo
+
+[33mcommit 693f801893a5866ad75c87f68f237da6fce5b54d[m
+Author: jaseth-cas <jaseth.castillo@utp.ac.pa>
+Date:   Wed Aug 20 11:03:14 2025 -0500
+
+    Initial commit
